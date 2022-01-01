@@ -1,0 +1,52 @@
+Traceback (most recent call last):
+  File "main.py", line 5, in <module>
+    from twilio.rest import Client
+ModuleNotFoundError: No module named 'twilio'
+Traceback (most recent call last):
+  File "main.py", line 5, in <module>
+    from twilio.rest import Client
+ModuleNotFoundError: No module named 'twilio'
+  File "main.py", line 12
+    if price_doge < 018:
+                      ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+  File "main.py", line 12
+    if price_doge < 018:
+                      ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+  File "main.py", line 12
+    if price_doge < 018:
+                      ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+  File "main.py", line 12
+    if price_doge < 018:
+                      ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+Traceback (most recent call last):
+  File "main.py", line 5, in <module>
+    from twilio.rest import Client
+ModuleNotFoundError: No module named 'twilio'
+Traceback (most recent call last):
+  File "main.py", line 5, in <module>
+    from twilio.rest import Client
+ModuleNotFoundError: No module named 'twilio'
+Traceback (most recent call last):
+  File "main.py", line 5, in <module>
+    from twilio.rest import Client
+ModuleNotFoundError: No module named 'twilio'
+Traceback (most recent call last):
+  File "main.py", line 5, in <module>
+    from twilio.rest import Client
+ModuleNotFoundError: No module named 'twilio'
+Traceback (most recent call last):
+  File "main.py", line 5, in <module>
+    from twilio.rest import Client
+ModuleNotFoundError: No module named 'twilio'
+Traceback (most recent call last):
+  File "main.py", line 5, in <module>
+    from twilio.rest import Client
+ModuleNotFoundError: No module named 'twilio'
+Traceback (most recent call last):
+  File "main.py", line 5, in <module>
+    from twilio.rest import Client
+ModuleNotFoundError: No module named 'twilio'
